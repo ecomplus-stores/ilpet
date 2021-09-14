@@ -1,24 +1,24 @@
 {
-  "store_id": 8958,
-  "name": "ilpet",
   "domain": "ilpet.netlify.app",
-  "short_name": "ilpet",
-  "description": "ilpet",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
+  "currency_symbol": "R$",
+  "primary_color": "#ffd400",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
+  "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/ilpet",
   "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "name": "ilpet",
+  "short_name": "ilpet",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
+  "mini_logo": "",
+  "favicon": "/img/uploads/favicon.png",
   "country_code": "BR",
-  "repository": "ecomplus-stores/ilpet"
+  "secondary_color": "#393e46",
+  "icon": "/img/icon.png",
+  "store_id": 8958,
+  "description": "ilpet",
+  "large_icon": "/img/large-icon.png"
 }
