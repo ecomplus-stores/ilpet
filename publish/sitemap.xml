@@ -2,36 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
-      <loc>https://ilpet.netlify.app/cachorros</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://ilpet.netlify.app/racao-cachorro</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://ilpet.netlify.app/gatos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://ilpet.netlify.app/passaros</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://ilpet.netlify.app/peixes</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://ilpet.netlify.app/roedores</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -125,30 +95,6 @@
       <loc>https://ilpet.netlify.app/farmacia</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://ilpet.netlify.app/po-otolgico-granado-100g</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://ilpet.netlify.app/focinheira-bark--meow-para-ces-n-4</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://ilpet.netlify.app/focinheira-bark--meow-para-ces-n-5</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://ilpet.netlify.app/acelerador-biolgico-microbe-lift-special-blend-473ml</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
     </url>
   
     <url>
