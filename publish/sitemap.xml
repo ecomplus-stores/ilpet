@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
+      <loc>https://ilpet.netlify.app/po-otolgico-granado-100g</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://ilpet.netlify.app/focinheira-bark--meow-para-ces-n-4</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://ilpet.netlify.app/focinheira-bark--meow-para-ces-n-5</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://ilpet.netlify.app/cachorros</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -116,25 +134,13 @@
     </url>
   
     <url>
-      <loc>https://ilpet.netlify.app/po-otolgico-granado-100g</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://ilpet.netlify.app/focinheira-bark--meow-para-ces-n-4</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://ilpet.netlify.app/focinheira-bark--meow-para-ces-n-5</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://ilpet.netlify.app/racao-premier-ipiranga</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://ilpet.netlify.app/golden</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
