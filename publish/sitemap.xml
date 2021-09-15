@@ -170,6 +170,12 @@
     </url>
   
     <url>
+      <loc>https://ilpet.netlify.app/magnus</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://ilpet.netlify.app/pages/banho-e-tosa</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
